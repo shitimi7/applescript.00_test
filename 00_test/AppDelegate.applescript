@@ -6,6 +6,8 @@
 --  Copyright (c) 2015年 e-norichan.com. All rights reserved.
 --
 
+-- github テスト用
+
 script AppDelegate
 	property parent : class "NSObject"
 	
